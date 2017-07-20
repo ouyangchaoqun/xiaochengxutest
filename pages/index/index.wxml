@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="box"></view>
+<view class="list">
+    <button>
+     <image src="../img/mood_02.png"></image>
+      张三
+    </button>
+    <button>
+    <image src="../img/mood_02.png"></image>李四</button>
+    <button>
+    <image src="../img/mood_02.png"></image>王二</button>
+    <button>
+    <image src="../img/mood_02.png"></image>麻五</button>
+</view>

@@ -1,0 +1,21 @@
+/**index.wxss**/
+.box{
+  height:200px;
+  width:100%;
+  background:url("../img/list_banner.png") no-repeat;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+button{
+  text-align: left;
+  position: relative;
+  padding-left:60px;
+  margin-top:5px;
+}
+image{
+  position: absolute;
+  left:10px;
+  top:8px;
+  height:30px;
+  width:30px;
+}
